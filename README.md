@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋 
+### 🙌 My Name is Fauzan JM 🙌
+- 🦿 I'm an Informatics engineering student and hoping to be a GameDev
+- 🌱 I’m currently learning about DSA, OOP and many things
+
+
+
 
 <!--
 **glicthe/glicthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
