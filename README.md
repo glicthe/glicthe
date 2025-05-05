@@ -1,5 +1,5 @@
-# Hi there 👋 
-### 🙌 My Name is Fauzan JM 🙌
+# Hi, I'm Fauzan Juniar Mulyana 👋 
+### What I do?
 - 🦿 I'm an Informatics engineering student and hoping to be a GameDev
 - 🌱 I’m currently learning about DSA, OOP and many things
 
